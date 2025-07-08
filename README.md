@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Altaf Hosain
+- 👋 Hi, I’m Altaf Hossain
 - 👀 I’m interested in Development & Cloud Computing
 - 🌱 I’m currently learning Android App Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 Here is my Linkedin Profile- https://www.linkedin.com/in/altaf-fakir-a3a640339/
+- 📫 Check out my Linkedin Profile- https://www.linkedin.com/in/altaf09/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
